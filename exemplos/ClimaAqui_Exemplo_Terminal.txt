@@ -1,0 +1,37 @@
+Previsão para Campo Grande, Mato Grosso do Sul.
+____________________________________________________________
+Hoje, Quinta-feira, 15/02/2024
+Temperatura : ⬇️ 22.9ºC ⬆️ 32.8ºC
+Clima       : Predominantemente nublado, com tempestades
+Chuva       : 40%
+Umidade     : 58%
+Vento       : 16.7 km/h
+____________________________________________________________
+Amanhã, Sexta-feira, 16/02/2024
+Temperatura : ⬇️ 22.8ºC ⬆️ 31.1ºC
+Clima       : Predominantemente nublado, com tempestades
+Chuva       : 44%
+Umidade     : 70%
+Vento       : 13.0 km/h
+____________________________________________________________
+Sábado, 17/02/2024
+Temperatura : ⬇️ 21.7ºC ⬆️ 29.9ºC
+Clima       : Parcialmente nublado, com tempestades
+Chuva       : 55%
+Umidade     : 77%
+Vento       : 13.0 km/h
+____________________________________________________________
+Domingo, 18/02/2024
+Temperatura : ⬇️ 21.8ºC ⬆️ 27.5ºC
+Clima       : Tempestades
+Chuva       : 98%
+Umidade     : 82%
+Vento       : 13.0 km/h
+____________________________________________________________
+Segunda-feira, 19/02/2024
+Temperatura : ⬇️ 21.3ºC ⬆️ 29.6ºC
+Clima       : Nuvens esparsas
+Chuva       : 40%
+Umidade     : 67%
+Vento       : 14.8 km/h
+____________________________________________________________
